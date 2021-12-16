@@ -5,7 +5,7 @@ import '../../models/todo.dart';
 import 'bar.dart';
 import 'body.dart';
 
-class TodoListScreen extends StatefulWidget {
+class TodoListScreen extends StatefulWidge {
   final List<Todo> todoList;
   TodoListScreen(this.todoList);
 
